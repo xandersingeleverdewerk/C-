@@ -1,0 +1,10 @@
+C:\Users\xrobb\source\repos\teksten\teksten\bin\Debug\teksten.exe.config
+C:\Users\xrobb\source\repos\teksten\teksten\bin\Debug\teksten.exe
+C:\Users\xrobb\source\repos\teksten\teksten\bin\Debug\teksten.pdb
+C:\Users\xrobb\source\repos\teksten\teksten\obj\Debug\teksten.csprojAssemblyReference.cache
+C:\Users\xrobb\source\repos\teksten\teksten\obj\Debug\teksten.Form1.resources
+C:\Users\xrobb\source\repos\teksten\teksten\obj\Debug\teksten.Properties.Resources.resources
+C:\Users\xrobb\source\repos\teksten\teksten\obj\Debug\teksten.csproj.GenerateResource.cache
+C:\Users\xrobb\source\repos\teksten\teksten\obj\Debug\teksten.csproj.CoreCompileInputs.cache
+C:\Users\xrobb\source\repos\teksten\teksten\obj\Debug\teksten.exe
+C:\Users\xrobb\source\repos\teksten\teksten\obj\Debug\teksten.pdb

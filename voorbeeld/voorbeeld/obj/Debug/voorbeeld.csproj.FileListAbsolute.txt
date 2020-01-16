@@ -1,0 +1,15 @@
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld.csprojAssemblyReference.cache
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\MainWindow.g.cs
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\App.g.cs
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld_MarkupCompile.cache
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld_MarkupCompile.lref
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\bin\Debug\voorbeeld.exe.config
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\bin\Debug\voorbeeld.exe
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\bin\Debug\voorbeeld.pdb
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\MainWindow.baml
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld.g.resources
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld.Properties.Resources.resources
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld.csproj.GenerateResource.cache
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld.exe
+C:\Users\xrobb\source\repos\voorbeeld\voorbeeld\obj\Debug\voorbeeld.pdb
