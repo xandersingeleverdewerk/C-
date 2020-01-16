@@ -1,0 +1,10 @@
+C:\Users\xrobb\source\repos\Selectie\Selectie\bin\Debug\Selectie.exe.config
+C:\Users\xrobb\source\repos\Selectie\Selectie\bin\Debug\Selectie.exe
+C:\Users\xrobb\source\repos\Selectie\Selectie\bin\Debug\Selectie.pdb
+C:\Users\xrobb\source\repos\Selectie\Selectie\obj\Debug\Selectie.csprojAssemblyReference.cache
+C:\Users\xrobb\source\repos\Selectie\Selectie\obj\Debug\Selectie.Properties.Resources.resources
+C:\Users\xrobb\source\repos\Selectie\Selectie\obj\Debug\Selectie.csproj.GenerateResource.cache
+C:\Users\xrobb\source\repos\Selectie\Selectie\obj\Debug\Selectie.csproj.CoreCompileInputs.cache
+C:\Users\xrobb\source\repos\Selectie\Selectie\obj\Debug\Selectie.exe
+C:\Users\xrobb\source\repos\Selectie\Selectie\obj\Debug\Selectie.pdb
+C:\Users\xrobb\source\repos\Selectie\Selectie\obj\Debug\Selectie.Selectie.resources

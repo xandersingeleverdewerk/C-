@@ -1,0 +1,10 @@
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\bin\Debug\Oppervlakte.exe.config
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\bin\Debug\Oppervlakte.exe
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\bin\Debug\Oppervlakte.pdb
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\obj\Debug\Oppervlakte.csprojAssemblyReference.cache
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\obj\Debug\Oppervlakte.Form1.resources
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\obj\Debug\Oppervlakte.Properties.Resources.resources
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\obj\Debug\Oppervlakte.csproj.GenerateResource.cache
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\obj\Debug\Oppervlakte.csproj.CoreCompileInputs.cache
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\obj\Debug\Oppervlakte.exe
+C:\Users\xrobb\source\repos\Oppervlakte\Oppervlakte\obj\Debug\Oppervlakte.pdb

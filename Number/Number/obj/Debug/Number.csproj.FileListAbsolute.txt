@@ -1,0 +1,10 @@
+C:\Users\xrobb\source\repos\Number\Number\obj\Debug\Number.csprojAssemblyReference.cache
+C:\Users\xrobb\source\repos\Number\Number\obj\Debug\Number.Form1.resources
+C:\Users\xrobb\source\repos\Number\Number\obj\Debug\Number.Properties.Resources.resources
+C:\Users\xrobb\source\repos\Number\Number\obj\Debug\Number.csproj.GenerateResource.cache
+C:\Users\xrobb\source\repos\Number\Number\obj\Debug\Number.csproj.CoreCompileInputs.cache
+C:\Users\xrobb\source\repos\Number\Number\bin\Debug\Number.exe.config
+C:\Users\xrobb\source\repos\Number\Number\bin\Debug\Number.exe
+C:\Users\xrobb\source\repos\Number\Number\bin\Debug\Number.pdb
+C:\Users\xrobb\source\repos\Number\Number\obj\Debug\Number.exe
+C:\Users\xrobb\source\repos\Number\Number\obj\Debug\Number.pdb

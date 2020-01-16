@@ -1,0 +1,10 @@
+C:\Users\xrobb\source\repos\tafels\tafels\bin\Debug\tafels.exe.config
+C:\Users\xrobb\source\repos\tafels\tafels\bin\Debug\tafels.exe
+C:\Users\xrobb\source\repos\tafels\tafels\bin\Debug\tafels.pdb
+C:\Users\xrobb\source\repos\tafels\tafels\obj\Debug\tafels.csprojAssemblyReference.cache
+C:\Users\xrobb\source\repos\tafels\tafels\obj\Debug\tafels.Form1.resources
+C:\Users\xrobb\source\repos\tafels\tafels\obj\Debug\tafels.Properties.Resources.resources
+C:\Users\xrobb\source\repos\tafels\tafels\obj\Debug\tafels.csproj.GenerateResource.cache
+C:\Users\xrobb\source\repos\tafels\tafels\obj\Debug\tafels.csproj.CoreCompileInputs.cache
+C:\Users\xrobb\source\repos\tafels\tafels\obj\Debug\tafels.exe
+C:\Users\xrobb\source\repos\tafels\tafels\obj\Debug\tafels.pdb
