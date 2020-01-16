@@ -1,0 +1,10 @@
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\bin\Debug\decimale getallen.exe.config
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\bin\Debug\decimale getallen.exe
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\bin\Debug\decimale getallen.pdb
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\obj\Debug\decimale getallen.csprojAssemblyReference.cache
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\obj\Debug\decimale_getallen.Form1.resources
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\obj\Debug\decimale_getallen.Properties.Resources.resources
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\obj\Debug\decimale getallen.csproj.GenerateResource.cache
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\obj\Debug\decimale getallen.csproj.CoreCompileInputs.cache
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\obj\Debug\decimale getallen.exe
+C:\Users\xrobb\source\repos\decimale getallen\decimale getallen\obj\Debug\decimale getallen.pdb
